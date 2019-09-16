@@ -1,4 +1,4 @@
-# A-Way-Back
+# A Way Back
 Term project for introduction to game programming class.
 
 You're a kite who's trying to get back to the child who plays with you.
