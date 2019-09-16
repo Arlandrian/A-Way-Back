@@ -8,3 +8,4 @@ A game inspired by the famous paper plane game [Flight](https://armorgames.com/p
 Main menu
 ![]()
 
+Unity Version: Unity 2017.3.1f1
